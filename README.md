@@ -16,3 +16,5 @@ A responsive frontend website built using HTML and CSS.
 ## 🌐 Live Demo
 [Visit Live Site](https://abhinabanath.github.io/skills-courses-website/)
 
+## 📸 Preview
+![Website Screenshot](Preview.png)
